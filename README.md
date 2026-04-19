@@ -7,7 +7,7 @@ Este Trabajo Práctico consiste en el desarrollo de un portafolio profesional re
 ### Estructura del Proyecto
 - [x] Archivo `index.html` ubicado en la raíz.
 - [x] Carpeta `css` que contiene el archivo `styles.css`.
-- [ ] (Opcional) Carpeta `img` para recursos gráficos.
+- [x] (Opcional) Carpeta `img` para recursos gráficos.
 - [x] Archivo `README.md` creado, con breve descripción del TP y checklist.
 
 ### Repositorio y Publicación
